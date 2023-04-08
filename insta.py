@@ -20,7 +20,7 @@ print(profile_url)
 # info  = ClientCompatPatch.user(user_id)
 # info = api.user_info(user_id)
 # print(info)
-
+# print(info)
 
 # items = [item for item in results.get('feed_items', [])
 #          if item.get('media_or_ad')]
